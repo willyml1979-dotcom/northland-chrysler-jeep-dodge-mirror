@@ -1,6 +1,6 @@
 {
   "dealership": "Northland Chrysler Jeep Dodge",
-  "generated_at": "2026-09-26T19:35:17",
+  "generated_at": "2026-10-08T14:42:19",
   "vehicle_count": 243,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -9,6 +9,7 @@
       "name": "2007 Jeep Grand Cherokee Laredoin Prince George",
       "vin": "1J8HR48M77C692086",
       "stock": "NUMBER",
+      "trim": "Laredoin Prince George",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/2856d4088e40.html",
       "source_url": "https://www.northlanddodge.ca/used/2007-Jeep-Grand_Cherokee-id14252207.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2007-Jeep-Grand_Cherokee-id14252207.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -18,8 +19,10 @@
       "odometer_km": 235049,
       "year": 2007,
       "make": "Jeep",
-      "model": "Grand Cherokee Laredoin Prince George",
-      "condition": "used"
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2007 Jeep Grand Cherokee ",
@@ -34,13 +37,16 @@
       "year": 2007,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2008 Jeep Compass Sport | 4WD | AC | Fog Lights | Power Outlet | Power Steering | Traction Control | For Sale |in Prince George",
       "vin": "1J8FF47W78D562078",
       "stock": "NUMBER",
       "color": "Light green",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/3feeb98c181c.html",
       "source_url": "https://www.northlanddodge.ca/used/2008-Jeep-Compass-id14381141.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2008-Jeep-Compass-id14381141.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -50,8 +56,10 @@
       "odometer_km": 309476,
       "year": 2008,
       "make": "Jeep",
-      "model": "Compass Sport",
-      "condition": "used"
+      "model": "Compass",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2008 Jeep Compass ",
@@ -67,13 +75,16 @@
       "year": 2008,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2012 RAM 1500 Laramie Longhornin Prince George",
       "vin": "1C6RD7PT2CS110794",
       "stock": "NUMBER",
       "color": "Brown",
+      "trim": "Laramie Longhornin Prince George",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/afa38d499ad1.html",
       "source_url": "https://www.northlanddodge.ca/used/2012-RAM-1500-id14381140.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2012-RAM-1500-id14381140.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -83,8 +94,10 @@
       "odometer_km": 288245,
       "year": 2012,
       "make": "RAM",
-      "model": "1500 Laramie Longhornin Prince George",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2012 RAM 1500 ",
@@ -100,7 +113,9 @@
       "year": 2012,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2014 Kia Rio ",
@@ -115,12 +130,15 @@
       "year": 2014,
       "make": "Kia",
       "model": "Rio",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2014 Kia Rio LX | FWD | No Accidents | Remote Start | Heated Seats | Bluetooth | Cruise Control | WHOLESALE |in Prince George",
       "vin": "KNADM4A30E6371215",
       "stock": "NUMBER",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/50256ce0499d.html",
       "source_url": "https://www.northlanddodge.ca/used/2014-Kia-Rio-id14306144.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2014-Kia-Rio-id14306144.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -130,13 +148,16 @@
       "odometer_km": 126854,
       "year": 2014,
       "make": "Kia",
-      "model": "Rio LX",
-      "condition": "used"
+      "model": "Rio",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2014 Subaru Forester XT Touring | AWD | One Owner | No Accidents | Bluetooth | For Sale |in Prince George",
       "vin": "JF2SJHPC3EH505061",
       "stock": "NUMBER",
+      "trim": "XT Touring",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/402456d9939a.html",
       "source_url": "https://www.northlanddodge.ca/used/2014-Subaru-Forester-id14118280.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2014-Subaru-Forester-id14118280.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -146,8 +167,10 @@
       "odometer_km": 98340,
       "year": 2014,
       "make": "Subaru",
-      "model": "Forester XT Touring",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2014 Subaru Forester ",
@@ -162,12 +185,15 @@
       "year": 2014,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2016 Ford Fiesta SE | FWD | No Accidents | Low KM | Heated Seats | Bluetooth | Cruise Control |in Prince George",
       "vin": "3FADP4BJ4GM151592",
       "stock": "NUMBER",
+      "trim": "SE",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/c82bc75cb097.html",
       "source_url": "https://www.northlanddodge.ca/used/2016-Ford-Fiesta-id14222365.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2016-Ford-Fiesta-id14222365.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -177,8 +203,10 @@
       "odometer_km": 52239,
       "year": 2016,
       "make": "Ford",
-      "model": "Fiesta SE",
-      "condition": "used"
+      "model": "Fiesta",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2016 Ford Fiesta ",
@@ -193,12 +221,15 @@
       "year": 2016,
       "make": "Ford",
       "model": "Fiesta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2016 Ford Super Duty F-350 SRW ",
       "vin": "1FT8W3BT3GEC65180",
       "stock": 13754502,
+      "trim": "F-350 SRW",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/16a3678e9598.html",
       "source_url": "https://www.northlanddodge.ca/used/2016-Ford-Super_Duty_F_350_SRW.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2016-Ford-Super_Duty_F_350_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -207,13 +238,16 @@
       "price_currency": "CAD",
       "year": 2016,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2016 Honda Civic Coupe EX-Tin Prince George",
       "vin": "2HGFC3B31GH427463",
       "stock": "NUMBER",
+      "trim": "EX-Tin Prince George",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/3fd106f21d92.html",
       "source_url": "https://www.northlanddodge.ca/used/2016-Honda-Civic_Coupe-id14421174.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2016-Honda-Civic_Coupe-id14421174.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -223,8 +257,10 @@
       "odometer_km": 185521,
       "year": 2016,
       "make": "Honda",
-      "model": "Civic Coupe EX-Tin Prince George",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2016 Honda Civic Coupe ",
@@ -239,12 +275,15 @@
       "year": 2016,
       "make": "Honda",
       "model": "Civic Coupe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2017 Chevrolet Silverado 1500 LTZ | 4WD | Leather | NAV | Apple CarPlay | Heated Seats | Backup Camera | Android Auto |in Prince George",
       "vin": "3GCUKSEC7HG416452",
       "stock": "NUMBER",
+      "trim": "LTZ",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/37cf7b3a92bd.html",
       "source_url": "https://www.northlanddodge.ca/used/2017-Chevrolet-Silverado_1500-id14322276.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2017-Chevrolet-Silverado_1500-id14322276.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -254,8 +293,10 @@
       "odometer_km": 244300,
       "year": 2017,
       "make": "Chevrolet",
-      "model": "Silverado 1500 LTZ",
-      "condition": "used"
+      "model": "Silverado 1500",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2017 Chevrolet Silverado 1500 ",
@@ -270,13 +311,16 @@
       "year": 2017,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2017 Jeep Compass 75th Anniversary | FWD | Sunroof | Apple CarPlay | Heated Seats | Backup Camera | Android Auto |in Prince George",
       "vin": "1C4NJCAB5HD186496",
       "stock": "NUMBER",
       "color": "Green",
+      "trim": "75th Anniversary",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/6c5b3c3b1f5e.html",
       "source_url": "https://www.northlanddodge.ca/used/2017-Jeep-Compass-id14329244.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2017-Jeep-Compass-id14329244.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -286,8 +330,10 @@
       "odometer_km": 183164,
       "year": 2017,
       "make": "Jeep",
-      "model": "Compass 75th Anniversary",
-      "condition": "used"
+      "model": "Compass",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2017 Jeep Compass ",
@@ -303,13 +349,16 @@
       "year": 2017,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2017 Jeep Grand Cherokee Overland | 4WD | Leather | Sunroof | NAV | Remote Start | Heated Seats | Backup Camera |in Prince George",
       "vin": "1C4RJFCT8HC956818",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Overland",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/b5e47c6e6ae7.html",
       "source_url": "https://www.northlanddodge.ca/used/2017-Jeep-Grand_Cherokee-id14329247.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2017-Jeep-Grand_Cherokee-id14329247.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -319,8 +368,10 @@
       "odometer_km": 100411,
       "year": 2017,
       "make": "Jeep",
-      "model": "Grand Cherokee Overland",
-      "condition": "used"
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2017 Jeep Grand Cherokee ",
@@ -336,12 +387,15 @@
       "year": 2017,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2018 Chevrolet Colorado 4WD LT | 4WD | Apple CarPlay | Android Auto | Remote Start | Backup Camera | Bluetooth |in Prince George",
       "vin": "1GCGTCEN5J1242323",
       "stock": "NUMBER",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/18c5cef3bb3f.html",
       "source_url": "https://www.northlanddodge.ca/used/2018-Chevrolet-Colorado-id14239186.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2018-Chevrolet-Colorado-id14239186.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -351,8 +405,10 @@
       "odometer_km": 187900,
       "year": 2018,
       "make": "Chevrolet",
-      "model": "Colorado 4WD LT",
-      "condition": "used"
+      "model": "Colorado",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2018 Chevrolet Colorado ",
@@ -367,12 +423,15 @@
       "year": 2018,
       "make": "Chevrolet",
       "model": "Colorado",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2018 Honda Civic Hatchback Sportin Prince George",
       "vin": "SHHFK7H42JU300385",
       "stock": "NUMBER",
+      "trim": "Sportin Prince George",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/920abd97c0a7.html",
       "source_url": "https://www.northlanddodge.ca/used/2018-Honda-Civic_Hatchback-id14406095.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2018-Honda-Civic_Hatchback-id14406095.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -382,8 +441,10 @@
       "odometer_km": 109055,
       "year": 2018,
       "make": "Honda",
-      "model": "Civic Hatchback Sportin Prince George",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2018 Honda Civic Hatchback ",
@@ -398,13 +459,16 @@
       "year": 2018,
       "make": "Honda",
       "model": "Civic Hatchback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2018 RAM 1500 Outdoorsman | 4WD | Remote Start | Heated Seats | Heated Steering | Bluetooth | Cruise Control |in Prince George",
       "vin": "1C6RR7LM4JS346439",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Outdoorsman",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/2fcb937d6c54.html",
       "source_url": "https://www.northlanddodge.ca/used/2018-RAM-1500-id14381139.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2018-RAM-1500-id14381139.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -414,8 +478,10 @@
       "odometer_km": 160011,
       "year": 2018,
       "make": "RAM",
-      "model": "1500 Outdoorsman",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2018 RAM 1500 ",
@@ -431,7 +497,9 @@
       "year": 2018,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2018 RAM 2500 ",
@@ -447,12 +515,15 @@
       "year": 2018,
       "make": "RAM",
       "model": "2500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2018 Volkswagen Passat Comfortlinein Prince George",
       "vin": "1VWBA7A38JC018301",
       "stock": "NUMBER",
+      "trim": "Comfortlinein Prince George",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/1142db965fe3.html",
       "source_url": "https://www.northlanddodge.ca/used/2018-Volkswagen-Passat-id14428203.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2018-Volkswagen-Passat-id14428203.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -462,8 +533,10 @@
       "odometer_km": 116759,
       "year": 2018,
       "make": "Volkswagen",
-      "model": "Passat Comfortlinein Prince George",
-      "condition": "used"
+      "model": "Passat",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2018 Volkswagen Passat ",
@@ -478,13 +551,16 @@
       "year": 2018,
       "make": "Volkswagen",
       "model": "Passat",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2019 Dodge Grand Caravan SXT Premium Plus | FWD | No Accidents | Backup Camera | Bluetooth | Cruise Control |in Prince George",
       "vin": "2C4RDGBG2KR607671",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "SXT Premium Plus",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/56f53a321d03.html",
       "source_url": "https://www.northlanddodge.ca/used/2019-Dodge-Grand_Caravan-id14329246.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2019-Dodge-Grand_Caravan-id14329246.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -494,8 +570,10 @@
       "odometer_km": 51123,
       "year": 2019,
       "make": "Dodge",
-      "model": "Grand Caravan SXT Premium Plus",
-      "condition": "used"
+      "model": "Grand Caravan",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2019 Dodge Grand Caravan ",
@@ -511,12 +589,15 @@
       "year": 2019,
       "make": "Dodge",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2019 Ford Super Duty F-250 SRW ",
       "vin": "1FT7W2B61KEF73294",
       "stock": 14361462,
+      "trim": "F-250 SRW",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/5582c0a2f812.html",
       "source_url": "https://www.northlanddodge.ca/used/2019-Ford-Super_Duty_F_250_SRW.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2019-Ford-Super_Duty_F_250_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -525,8 +606,10 @@
       "price_currency": "CAD",
       "year": 2019,
       "make": "Ford",
-      "model": "Super Duty F-250 SRW",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2019 GMC Sierra 3500 ",
@@ -541,7 +624,9 @@
       "year": 2019,
       "make": "GMC",
       "model": "Sierra 3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2019 GMC Yukon ",
@@ -556,13 +641,16 @@
       "year": 2019,
       "make": "GMC",
       "model": "Yukon",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2019 RAM 1500 Classic Expressin Prince George",
       "vin": "1C6RR7KT9KS719128",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Expressin Prince George",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/2147c744022a.html",
       "source_url": "https://www.northlanddodge.ca/used/2019-RAM-1500_Classic-id14407880.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2019-RAM-1500_Classic-id14407880.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -572,8 +660,10 @@
       "odometer_km": 188769,
       "year": 2019,
       "make": "RAM",
-      "model": "1500 Classic Expressin Prince George",
-      "condition": "used"
+      "model": "1500 Classic",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2019 RAM 1500 Classic ",
@@ -589,7 +679,9 @@
       "year": 2019,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2019 RAM 3500 ",
@@ -605,12 +697,15 @@
       "year": 2019,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2020 Ford Escape SEL | AWD | Apple CarPlay | NAV | Remote Start | Heated Seats | Backup Camera | Android Auto |in Prince George",
       "vin": "1FMCU9H6XLUB50639",
       "stock": "NUMBER",
+      "trim": "SEL",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/880667cd5c23.html",
       "source_url": "https://www.northlanddodge.ca/used/2020-Ford-Escape-id14162920.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2020-Ford-Escape-id14162920.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -620,8 +715,10 @@
       "odometer_km": 70463,
       "year": 2020,
       "make": "Ford",
-      "model": "Escape SEL",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2020 Ford Escape ",
@@ -636,12 +733,15 @@
       "year": 2020,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2020 Honda CR-V Touring | AWD | No Accidents | Apple CarPlay | Heated Seats | Android Auto | Backup Camera |in Prince George",
       "vin": "2HKRW2H99LH222970",
       "stock": "NUMBER",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/40051c3f1865.html",
       "source_url": "https://www.northlanddodge.ca/used/2020-Honda-CR_V-id14106227.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2020-Honda-CR_V-id14106227.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -651,8 +751,10 @@
       "odometer_km": 162127,
       "year": 2020,
       "make": "Honda",
-      "model": "CR-V Touring",
-      "condition": "used"
+      "model": "CR-V",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2020 Honda CR-V ",
@@ -667,7 +769,9 @@
       "year": 2020,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2020 Jeep Grand Cherokee ",
@@ -681,7 +785,9 @@
       "year": 2020,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2020 RAM 2500 ",
@@ -697,7 +803,9 @@
       "year": 2020,
       "make": "RAM",
       "model": "2500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2020 RAM 3500 ",
@@ -713,7 +821,9 @@
       "year": 2020,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2020 RAM 3500 ",
@@ -729,7 +839,9 @@
       "year": 2020,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2021 Ford Explorer ",
@@ -744,7 +856,9 @@
       "year": 2021,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2021 Ford F-150 ",
@@ -759,7 +873,9 @@
       "year": 2021,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2021 Mazda CX-9 ",
@@ -774,7 +890,9 @@
       "year": 2021,
       "make": "Mazda",
       "model": "CX-9",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 3500 ",
@@ -790,12 +908,15 @@
       "year": 2021,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2022 Chevrolet Equinox LT | AWD | Apple CarPlay | Remote Start | Heated Seats | Backup Camera | Android Auto |in Prince George",
       "vin": "3GNAXUEV0NL276871",
       "stock": "NUMBER",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/51ac8e6c6c05.html",
       "source_url": "https://www.northlanddodge.ca/used/2022-Chevrolet-Equinox-id14316820.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2022-Chevrolet-Equinox-id14316820.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -805,13 +926,16 @@
       "odometer_km": 86536,
       "year": 2022,
       "make": "Chevrolet",
-      "model": "Equinox LT",
-      "condition": "used"
+      "model": "Equinox",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2022 Chevrolet Equinox LT | AWD | Apple CarPlay | Remote Start | Heated Seats | Backup Camera | Android Auto |in Prince George",
       "vin": "3GNAXUEV6NL274896",
       "stock": "NUMBER",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/67a18cd5e0c8.html",
       "source_url": "https://www.northlanddodge.ca/used/2022-Chevrolet-Equinox-id14316825.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2022-Chevrolet-Equinox-id14316825.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -821,8 +945,10 @@
       "odometer_km": 58577,
       "year": 2022,
       "make": "Chevrolet",
-      "model": "Equinox LT",
-      "condition": "used"
+      "model": "Equinox",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2022 Chevrolet Equinox ",
@@ -837,7 +963,9 @@
       "year": 2022,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2022 Chevrolet Equinox ",
@@ -852,12 +980,15 @@
       "year": 2022,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Escape SELin Prince George",
       "vin": "1FMCU9H62NUA55267",
       "stock": "NUMBER",
+      "trim": "SELin Prince George",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/56b52a07cb2e.html",
       "source_url": "https://www.northlanddodge.ca/used/2022-Ford-Escape-id14407881.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2022-Ford-Escape-id14407881.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -867,8 +998,10 @@
       "odometer_km": 147287,
       "year": 2022,
       "make": "Ford",
-      "model": "Escape SELin Prince George",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Escape ",
@@ -883,7 +1016,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2022 Ford F-150 ",
@@ -898,7 +1033,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Maverick ",
@@ -913,7 +1050,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2022 GMC Sierra 2500 ",
@@ -928,13 +1067,16 @@
       "year": 2022,
       "make": "GMC",
       "model": "Sierra 2500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai Santa Fe Hybrid Preferred | AWD | Seats 5 | Sunroof | Apple CarPlay | Remote Start | Heated Seats | Backup Camera |in Prince George",
       "vin": "KM8S3DA16NU057474",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/bcf2e29d5ee0.html",
       "source_url": "https://www.northlanddodge.ca/used/2022-Hyundai-Santa_Fe_Hybrid-id14306725.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2022-Hyundai-Santa_Fe_Hybrid-id14306725.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -944,8 +1086,10 @@
       "odometer_km": 76434,
       "year": 2022,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Preferred",
-      "condition": "used"
+      "model": "Santa Fe Hybrid",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai Santa Fe Hybrid ",
@@ -961,13 +1105,16 @@
       "year": 2022,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Cherokee Altitude | 4WD | No Accidents | Leather | NAV | Apple CarPlay | Remote Start | Backup Camera |in Prince George",
       "vin": "1C4PJMMX9ND515816",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Altitude",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/964346c72eb7.html",
       "source_url": "https://www.northlanddodge.ca/used/2022-Jeep-Cherokee-id14186064.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2022-Jeep-Cherokee-id14186064.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -977,14 +1124,17 @@
       "odometer_km": 52854,
       "year": 2022,
       "make": "Jeep",
-      "model": "Cherokee Altitude",
-      "condition": "used"
+      "model": "Cherokee",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Cherokee Trailhawkin Prince George",
       "vin": "1C4PJMBX6ND511421",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Trailhawkin Prince George",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/34cc7c93bfdc.html",
       "source_url": "https://www.northlanddodge.ca/used/2022-Jeep-Cherokee-id14400868.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2022-Jeep-Cherokee-id14400868.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -994,8 +1144,10 @@
       "odometer_km": 141122,
       "year": 2022,
       "make": "Jeep",
-      "model": "Cherokee Trailhawkin Prince George",
-      "condition": "used"
+      "model": "Cherokee",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Cherokee ",
@@ -1011,13 +1163,16 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Compass North | 4WD | Apple CarPlay | Remote Start | Heated Seats | Backup Camera | Android Auto |in Prince George",
       "vin": "3C4NJDBB3NT163017",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/edac9d86489b.html",
       "source_url": "https://www.northlanddodge.ca/used/2022-Jeep-Compass-id14283186.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2022-Jeep-Compass-id14283186.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1027,8 +1182,10 @@
       "odometer_km": 94287,
       "year": 2022,
       "make": "Jeep",
-      "model": "Compass North",
-      "condition": "used"
+      "model": "Compass",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Compass ",
@@ -1044,7 +1201,9 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Grand Wagoneer ",
@@ -1060,7 +1219,9 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Grand Wagoneer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Wrangler ",
@@ -1076,7 +1237,9 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Cherokee ",
@@ -1092,7 +1255,9 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Wrangler ",
@@ -1108,7 +1273,9 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 ",
@@ -1124,7 +1291,9 @@
       "year": 2022,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 2500 ",
@@ -1140,7 +1309,9 @@
       "year": 2022,
       "make": "RAM",
       "model": "2500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 ",
@@ -1156,7 +1327,9 @@
       "year": 2022,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2022 Subaru Ascent ",
@@ -1171,7 +1344,9 @@
       "year": 2022,
       "make": "Subaru",
       "model": "Ascent",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2022 Subaru Outback ",
@@ -1186,7 +1361,9 @@
       "year": 2022,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2022 Subaru Outback ",
@@ -1201,12 +1378,15 @@
       "year": 2022,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2023 Chevrolet Equinox LT | AWD | BC Owned | Apple CarPlay | Remote Start | Heated Seats | Android Auto |in Prince George",
       "vin": "3GNAXUEG1PS145233",
       "stock": "NUMBER",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/2c8ca42f5b9f.html",
       "source_url": "https://www.northlanddodge.ca/used/2023-Chevrolet-Equinox-id14131576.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2023-Chevrolet-Equinox-id14131576.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1216,13 +1396,16 @@
       "odometer_km": 41163,
       "year": 2023,
       "make": "Chevrolet",
-      "model": "Equinox LT",
-      "condition": "used"
+      "model": "Equinox",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2023 Chevrolet Equinox LTin Prince George",
       "vin": "3GNAXUEG4PS207322",
       "stock": "NUMBER",
+      "trim": "LTin Prince George",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/f80d317c4394.html",
       "source_url": "https://www.northlanddodge.ca/used/2023-Chevrolet-Equinox-id14316818.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2023-Chevrolet-Equinox-id14316818.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1232,8 +1415,10 @@
       "odometer_km": 94203,
       "year": 2023,
       "make": "Chevrolet",
-      "model": "Equinox LTin Prince George",
-      "condition": "used"
+      "model": "Equinox",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2023 Chevrolet Equinox ",
@@ -1248,7 +1433,9 @@
       "year": 2023,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2023 Chevrolet Equinox ",
@@ -1263,7 +1450,9 @@
       "year": 2023,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2023 Chrysler Pacifica ",
@@ -1279,7 +1468,9 @@
       "year": 2023,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2023 Dodge Challenger ",
@@ -1295,7 +1486,9 @@
       "year": 2023,
       "make": "Dodge",
       "model": "Challenger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2023 Dodge Durango ",
@@ -1311,7 +1504,9 @@
       "year": 2023,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2023 Dodge Durango ",
@@ -1327,7 +1522,9 @@
       "year": 2023,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Ranger ",
@@ -1342,7 +1539,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Cherokee ",
@@ -1358,13 +1557,16 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Compass Altitude | 4WD | Sunroof | NAV | Apple CarPlay | Remote Start | Backup Camera | Android Auto |in Prince George",
       "vin": "3C4NJDFN3PT508652",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Altitude",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/515cf1171da0.html",
       "source_url": "https://www.northlanddodge.ca/used/2023-Jeep-Compass-id14131577.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2023-Jeep-Compass-id14131577.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1374,8 +1576,10 @@
       "odometer_km": 95314,
       "year": 2023,
       "make": "Jeep",
-      "model": "Compass Altitude",
-      "condition": "used"
+      "model": "Compass",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Compass ",
@@ -1391,12 +1595,15 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Qashqai SL | AWD | No Accidents | One Owner | Sunroof | NAV | Apple CarPlay | Remote Start |in Prince George",
       "vin": "JN1BJ1BW1PW106061",
       "stock": "NUMBER",
+      "trim": "SL",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/d91dcdc2fdfb.html",
       "source_url": "https://www.northlanddodge.ca/used/2023-Nissan-Qashqai-id14367237.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2023-Nissan-Qashqai-id14367237.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1406,8 +1613,10 @@
       "odometer_km": 54500,
       "year": 2023,
       "make": "Nissan",
-      "model": "Qashqai SL",
-      "condition": "used"
+      "model": "Qashqai",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Qashqai ",
@@ -1422,7 +1631,9 @@
       "year": 2023,
       "make": "Nissan",
       "model": "Qashqai",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Rogue ",
@@ -1437,7 +1648,9 @@
       "year": 2023,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 1500 ",
@@ -1453,7 +1666,9 @@
       "year": 2023,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 1500 Classic ",
@@ -1469,7 +1684,9 @@
       "year": 2023,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 3500 ",
@@ -1485,7 +1702,9 @@
       "year": 2023,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 1500 ",
@@ -1501,7 +1720,9 @@
       "year": 2023,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 1500 Classic ",
@@ -1517,12 +1738,15 @@
       "year": 2023,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 Chevrolet Equinox LT | AWD | Apple CarPlay | Remote Start | Heated Seats | Remote Start | Cruise Control |in Prince George",
       "vin": "3GNAXUEG0RS230552",
       "stock": "NUMBER",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/feeb4029ac77.html",
       "source_url": "https://www.northlanddodge.ca/used/2024-Chevrolet-Equinox-id14222363.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2024-Chevrolet-Equinox-id14222363.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1532,13 +1756,16 @@
       "odometer_km": 67280,
       "year": 2024,
       "make": "Chevrolet",
-      "model": "Equinox LT",
-      "condition": "used"
+      "model": "Equinox",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 Chevrolet Equinox LT | AWD | Apple CarPlay | Remote Start | Heated Seats | Backup Camera | Android Auto |in Prince George",
       "vin": "3GNAXUEG8RL309106",
       "stock": "NUMBER",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/bf28bbd4d2b0.html",
       "source_url": "https://www.northlanddodge.ca/used/2024-Chevrolet-Equinox-id14274706.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2024-Chevrolet-Equinox-id14274706.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1548,8 +1775,10 @@
       "odometer_km": 67396,
       "year": 2024,
       "make": "Chevrolet",
-      "model": "Equinox LT",
-      "condition": "used"
+      "model": "Equinox",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 Chevrolet Equinox ",
@@ -1564,7 +1793,9 @@
       "year": 2024,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 Chevrolet Equinox ",
@@ -1579,7 +1810,9 @@
       "year": 2024,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 Chrysler Grand Caravan ",
@@ -1595,7 +1828,9 @@
       "year": 2024,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 Dodge Hornet ",
@@ -1610,7 +1845,9 @@
       "year": 2024,
       "make": "Dodge",
       "model": "Hornet",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Explorer ",
@@ -1625,7 +1862,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 Ford F-150 ",
@@ -1640,7 +1879,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 GMC Sierra 1500 ",
@@ -1655,7 +1896,9 @@
       "year": 2024,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 GMC Terrain ",
@@ -1670,7 +1913,9 @@
       "year": 2024,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 Honda HR-V ",
@@ -1685,13 +1930,16 @@
       "year": 2024,
       "make": "Honda",
       "model": "HR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Elantra Preferred | FWD | One Owner | BC Owned | Sunroof | NAV | Apple CarPlay | Android Auto |in Prince George",
       "vin": "KMHLM4DG8RU846572",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/d16f0872f904.html",
       "source_url": "https://www.northlanddodge.ca/used/2024-Hyundai-Elantra-id14106232.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2024-Hyundai-Elantra-id14106232.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1701,8 +1949,10 @@
       "odometer_km": 47911,
       "year": 2024,
       "make": "Hyundai",
-      "model": "Elantra Preferred",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Elantra ",
@@ -1718,7 +1968,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Compass ",
@@ -1734,7 +1986,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Gladiator ",
@@ -1750,7 +2004,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Grand Cherokee ",
@@ -1766,7 +2022,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Gladiator ",
@@ -1782,7 +2040,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Grand Cherokee ",
@@ -1798,7 +2058,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 Mitsubishi Outlander ",
@@ -1813,7 +2075,9 @@
       "year": 2024,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 1500 ",
@@ -1829,7 +2093,9 @@
       "year": 2024,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 1500 Classic ",
@@ -1845,7 +2111,9 @@
       "year": 2024,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 3500 ",
@@ -1861,7 +2129,9 @@
       "year": 2024,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 3500 ",
@@ -1877,7 +2147,9 @@
       "year": 2024,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Forester ",
@@ -1892,12 +2164,15 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Taos Comfortlinein Prince George",
       "vin": "3VVUX7B26RM087127",
       "stock": "NUMBER",
+      "trim": "Comfortlinein Prince George",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/8889f82837c2.html",
       "source_url": "https://www.northlanddodge.ca/used/2024-Volkswagen-Taos-id14367235.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2024-Volkswagen-Taos-id14367235.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1907,13 +2182,16 @@
       "odometer_km": 72122,
       "year": 2024,
       "make": "Volkswagen",
-      "model": "Taos Comfortlinein Prince George",
-      "condition": "used"
+      "model": "Taos",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Taos Comfortlinein Prince George",
       "vin": "3VVUX7B29RM128639",
       "stock": "NUMBER",
+      "trim": "Comfortlinein Prince George",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/8c29082d9ddd.html",
       "source_url": "https://www.northlanddodge.ca/used/2024-Volkswagen-Taos-id14367242.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2024-Volkswagen-Taos-id14367242.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1923,8 +2201,10 @@
       "odometer_km": 67284,
       "year": 2024,
       "make": "Volkswagen",
-      "model": "Taos Comfortlinein Prince George",
-      "condition": "used"
+      "model": "Taos",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Taos ",
@@ -1939,7 +2219,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Tiguan ",
@@ -1954,7 +2236,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Taos ",
@@ -1969,7 +2253,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Tiguan ",
@@ -1984,7 +2270,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Equinox ",
@@ -1999,7 +2287,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet TrailBlazer ",
@@ -2014,7 +2304,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "TrailBlazer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Equinox ",
@@ -2029,7 +2321,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet TrailBlazer ",
@@ -2044,7 +2338,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "TrailBlazer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2025 Dodge Durango ",
@@ -2060,7 +2356,9 @@
       "year": 2025,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2025 Dodge Durango ",
@@ -2076,7 +2374,9 @@
       "year": 2025,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2025 Jeep Grand Cherokee L ",
@@ -2092,7 +2392,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2025 Jeep Grand Cherokee ",
@@ -2108,7 +2410,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2025 Jeep Grand Cherokee L ",
@@ -2124,12 +2428,15 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Sportage LX | AWD | Apple CarPlay | Heated Seats | Backup Camera | Android Auto | Bluetooth |in Prince George",
       "vin": "KNDPUCDF8S7385921",
       "stock": "NUMBER",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/323f0ff219d5.html",
       "source_url": "https://www.northlanddodge.ca/used/2025-Kia-Sportage-id14269047.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2025-Kia-Sportage-id14269047.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2139,8 +2446,10 @@
       "odometer_km": 62326,
       "year": 2025,
       "make": "Kia",
-      "model": "Sportage LX",
-      "condition": "used"
+      "model": "Sportage",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Sportage ",
@@ -2155,7 +2464,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Sportage ",
@@ -2170,7 +2481,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2025 Mitsubishi Outlander ",
@@ -2185,7 +2498,9 @@
       "year": 2025,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2025 Mitsubishi Outlander ",
@@ -2200,7 +2515,9 @@
       "year": 2025,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2025 RAM 1500 ",
@@ -2216,7 +2533,9 @@
       "year": 2025,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2025 RAM 1500 ",
@@ -2232,7 +2551,9 @@
       "year": 2025,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota RAV4 ",
@@ -2247,7 +2568,9 @@
       "year": 2025,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota RAV4 ",
@@ -2262,12 +2585,15 @@
       "year": 2025,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Jetta Comfortline | FWD | Apple CarPlay | Remote Start | Heated Seats | Backup Camera | Android Auto |in Prince George",
       "vin": "3VWEX7BU4SM072830",
       "stock": "NUMBER",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/b07f9ff62e33.html",
       "source_url": "https://www.northlanddodge.ca/used/2025-Volkswagen-Jetta-id14367241.html",
       "dealer_url": "https://www.northlanddodge.ca/used/2025-Volkswagen-Jetta-id14367241.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2277,8 +2603,10 @@
       "odometer_km": 41030,
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Jetta Comfortline",
-      "condition": "used"
+      "model": "Jetta",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Jetta ",
@@ -2293,7 +2621,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos ",
@@ -2308,7 +2638,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Jetta ",
@@ -2323,7 +2655,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos ",
@@ -2338,7 +2672,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Pacifica ",
@@ -2354,7 +2690,9 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Charger ",
@@ -2370,7 +2708,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Charger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Durango ",
@@ -2386,7 +2726,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Reconin Prince George",
@@ -2400,7 +2742,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Reconin Prince George",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee ",
@@ -2416,7 +2760,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Reconin Prince George",
@@ -2430,13 +2776,16 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Reconin Prince George",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Laredo | 4WD | Apple CarPlay | Remote Start | Heated Seats | Backup Camera | Android Auto |in Prince George",
       "vin": "3C4PJMB28TT229549",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Laredo",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/437f1e58666c.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Cherokee-id13995408.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Cherokee-id13995408.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2445,14 +2794,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Laredo",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Laredoin Prince George",
       "vin": "3C4PJMB27TT216176",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Laredoin Prince George",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/00d0648d5630.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Cherokee-id14111550.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Cherokee-id14111550.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2461,14 +2813,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Laredoin Prince George",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Laredoin Prince George",
       "vin": "3C4PJMB2XTT276985",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Laredoin Prince George",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/92eca9f34a04.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Cherokee-id14217193.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Cherokee-id14217193.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2477,14 +2832,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Laredoin Prince George",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Laredoin Prince George",
       "vin": "3C4PJMB27TT290763",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Laredoin Prince George",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/b9e972dbbd62.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Cherokee-id14238603.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Cherokee-id14238603.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2493,14 +2851,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Laredoin Prince George",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Laredoin Prince George",
       "vin": "3C4PJMB20TT290765",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Laredoin Prince George",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/deacef814d29.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Cherokee-id14268456.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Cherokee-id14268456.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2509,14 +2870,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Laredoin Prince George",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Laredoin Prince George",
       "vin": "3C4PJMB29TT290764",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "Laredoin Prince George",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/95b18994cb25.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Cherokee-id14274214.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Cherokee-id14274214.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2525,8 +2889,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Laredoin Prince George",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokeein Prince George",
@@ -2542,7 +2908,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokeein Prince George",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee ",
@@ -2558,13 +2926,16 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Altitudein Prince George",
       "vin": "3C4NJDBN1TT198954",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "Altitudein Prince George",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/b12fb7019d38.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13171339.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13171339.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2573,14 +2944,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Altitudein Prince George",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Trailhawk | 4WD | Apple CarPlay | Heated Seats | Backup Camera | Android Auto | Heated Steering |in Prince George",
       "vin": "3C4NJDDNXTT203193",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Trailhawk",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/45c049d3c213.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13201218.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13201218.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2589,14 +2963,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Trailhawk",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Altitude | 4WD | Remote Start | Backup Camera | Push Button Start | Apple CarPlayin Prince George",
       "vin": "3C4NJDBN8TT198952",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Altitude",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/e2eed4c35fa4.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13239555.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13239555.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2605,14 +2982,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Altitude",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Altitude | 4WD | Apple CarPlay | Remote Start | Heated Seat s| Backup Camera | Android Auto |in Prince George",
       "vin": "3C4NJDBN7TT216549",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Altitude",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/19cabf6ededa.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13271310.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13271310.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2621,14 +3001,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Altitude",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Altitude | 4WD | Apple CarPlay | Remote Start | Heated Seats | Backup Camera | Android Auto |in Prince George",
       "vin": "3C4NJDBN9TT216553",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Altitude",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/e73a541c3a49.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13274015.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13274015.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2637,14 +3020,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Altitude",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Altitude | 4WD | Remote Start | Backup Camera | Heated Seats | Bluetoothin Prince George",
       "vin": "3C4NJDBN3TT216547",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Altitude",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/ff37958399d5.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13436097.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13436097.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2653,14 +3039,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Altitude",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Altitude | 4WD | Remote Start | Backup Camera | Push Button Start | Apple CarPlayin Prince George",
       "vin": "3C4NJDBN2TT235607",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Altitude",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/4d9823ec7088.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13531673.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13531673.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2669,14 +3058,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Altitude",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Altitude | 4WD | Remote Start | Backup Camera | Push Button Start | Apple CarPlayin Prince George",
       "vin": "3C4NJDBN0TT235606",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Altitude",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/784d40582501.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13542911.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13542911.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2685,14 +3077,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Altitude",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Altitude | 4WD | Leather | Sunroof | Remote Start | Backup Camera | Apple CarPlayin Prince George",
       "vin": "3C4NJDBN4TT235611",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Altitude",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/9fbc79fba82b.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13546908.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13546908.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2701,14 +3096,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Altitude",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Altitude | 4WD | Remote Start | Backup Camera | Push Button Start | Apple CarPlayin Prince George",
       "vin": "3C4NJDBN9TT235605",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Altitude",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/92c49f7f0582.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13546910.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13546910.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2717,14 +3115,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Altitude",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Altitude | AWD | Leather | NAV | Apple CarPlay | Remote Start | Heated Seats | Backup Camerain Prince George",
       "vin": "3C4NJDBN4TT235608",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "Altitude",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/d606228c2cf9.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13575971.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13575971.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2733,14 +3134,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Altitude",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Altitude | 4WD | Leather | Sunroof | NAV | Apple CarPlay | Remote Start | Heated Seats | Bluetoothin Prince George",
       "vin": "3C4NJDBN2TT235610",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Altitude",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/eeb47e2c6aae.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13582115.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13582115.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2749,14 +3153,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Altitude",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Altitude | AWD | Leather | Sunroof | NAV | Apple CarPlay | Remote Start | Heated Seatsin Prince George",
       "vin": "3C4NJDBN6TT235609",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Altitude",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/02991d6c4da5.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13695474.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13695474.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2765,14 +3172,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Altitude",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North | 4WD | Cloth Leather | Remote Start | Backup Camera | Heated Seats | Apple CarPlayin Prince George",
       "vin": "3C4NJDBN3TT156284",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/4ca15010bbe5.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13695956.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13695956.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2782,14 +3192,17 @@
       "odometer_km": 1334,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Altitude | AWD | Leather | Sunroof | NAV | Apple CarPlay | Remote Start | Heated Seatsin Prince George",
       "vin": "3C4NJDBN6TT235612",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Altitude",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/71b0e5ade5a1.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13701020.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13701020.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2798,14 +3211,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Altitude",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North | 4WD | 5 Seats | Remote Start | Backup Camera | Heated Seats | Bluetoothin Prince George",
       "vin": "3C4NJDBN3TT278157",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/084fa76a4b7f.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13867808.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13867808.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2814,14 +3230,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North | 4WD | NAV | Apple CarPlay | Heated Seats | Backup Camera | Android Auto |in Prince George",
       "vin": "3C4NJDBNXTT278155",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/b16ef9e39082.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13878691.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13878691.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2830,14 +3249,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North | 4WD | Apple CarPlay | Remote Start | Heated Seats | Backup Camera | Android Auto |in Prince George",
       "vin": "3C4NJDBN1TT278156",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/c601cd60a271.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13899952.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13899952.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2846,14 +3268,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North | 4WD | Apple CarPlay | Remote Start | Heated Seats | Backup Camera | Android Auto |in Prince George",
       "vin": "3C4NJDBN5TT278158",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/725538e40437.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13918982.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13918982.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2862,14 +3287,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Limited | 4WD | Sunroof | NAV | Apple CarPlay | Remote Start | Android Auto | Backup Camera |in Prince George",
       "vin": "3C4NJDCN0TT277112",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/2960a9f3b85a.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13933217.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13933217.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2878,14 +3306,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Limited",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North | 4WD | Apple CarPlay | Android Auto | Heated Seats | Backup Camera | Heated Steering |in Prince George",
       "vin": "3C4NJDBN8TT278154",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/eecdde92f2cc.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13949130.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13949130.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2894,14 +3325,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North | 4WD | 5 Seats | Apple CarPlay | Android Auto | Remote Start | Backup Camera |in Prince George",
       "vin": "3C4NJDBN4TT278149",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/709f72725861.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13949131.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13949131.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2910,14 +3344,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North | 4WD | NAV | Apple CarPlay | Heated Seats | Backup Camera | Android Auto |in Prince George",
       "vin": "3C4NJDBN2TT278151",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/fa31e916d871.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13949134.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13949134.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2926,14 +3363,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Limitedin Prince George",
       "vin": "3C4NJDCN2TT277113",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Limitedin Prince George",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/1540d831fa9c.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13949135.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13949135.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2942,14 +3382,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Limitedin Prince George",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North | 4WD | Apple CarPlay | Remote Start | Heated Seats | Backup Camera | Android Auto |in Prince George",
       "vin": "3C4NJDBN0TT278150",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/108171983b8e.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13949674.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id13949674.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2958,14 +3401,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Northin Prince George",
       "vin": "3C4NJDBN3TT152848",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Northin Prince George",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/3bcecda9b907.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id14001614.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id14001614.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2975,14 +3421,17 @@
       "odometer_km": 1297,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Northin Prince George",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Northin Prince George",
       "vin": "3C4NJDBN0TT294400",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Northin Prince George",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/bde93fb10ca2.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id14090528.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id14090528.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2991,14 +3440,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Northin Prince George",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Altitude | 4WD | Remote Start | Backup Camera | Push Button Start | Apple CarPlayin Prince George",
       "vin": "3C4NJDBN3TT216550",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Altitude",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/dada113532c5.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id14131147.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Compass-id14131147.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3007,8 +3459,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Altitude",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass ",
@@ -3024,7 +3478,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Gladiator ",
@@ -3040,7 +3496,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee ",
@@ -3056,7 +3514,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee L ",
@@ -3072,13 +3532,16 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Wagoneer L ",
       "vin": "1C4SJSBP0TS196400",
       "stock": 14117634,
       "color": "Black",
+      "trim": "L",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/9549c93f1b65.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Grand_Wagoneer_L.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Grand_Wagoneer_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3087,14 +3550,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Wagoneer L",
-      "condition": "new"
+      "model": "Grand Wagoneer",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler Sport | 4WD | Convertible | Apple CarPlay | Backup Camera | Android Auto | Cruise Control |in Prince George",
       "vin": "1C4PJXAN0TW341222",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/31d64750577d.html",
       "source_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Wrangler-id14274709.html",
       "dealer_url": "https://www.northlanddodge.ca/new/inventory/2026-Jeep-Wrangler-id14274709.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3103,8 +3569,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Wrangler Sport",
-      "condition": "new"
+      "model": "Wrangler",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler ",
@@ -3120,7 +3588,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee ",
@@ -3136,7 +3606,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 ",
@@ -3152,7 +3624,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 ",
@@ -3168,7 +3642,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 ",
@@ -3184,7 +3660,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 2500 ",
@@ -3200,7 +3678,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "2500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 ",
@@ -3216,7 +3696,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 ",
@@ -3232,7 +3714,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 ",
@@ -3248,7 +3732,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan ",
@@ -3263,7 +3749,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan ",
@@ -3278,7 +3766,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Grand Caravan ",
@@ -3294,7 +3784,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Pacifica ",
@@ -3310,7 +3802,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Grand Caravan ",
@@ -3326,7 +3820,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Pacifica ",
@@ -3342,7 +3838,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Grand Caravan ",
@@ -3358,7 +3856,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Pacifica ",
@@ -3374,7 +3874,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Dodge Chargerin Prince George",
@@ -3388,7 +3890,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Chargerin Prince George",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Dodge Durango ",
@@ -3404,7 +3908,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Dodge Chargerin Prince George",
@@ -3418,7 +3924,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Chargerin Prince George",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Dodge Durango ",
@@ -3434,7 +3942,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Dodge Durango ",
@@ -3450,7 +3960,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Cherokeein Prince George",
@@ -3464,7 +3976,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Cherokeein Prince George",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Compassin Prince George",
@@ -3478,7 +3992,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Compassin Prince George",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Gladiatorin Prince George",
@@ -3492,7 +4008,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Gladiatorin Prince George",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Cherokeein Prince George",
@@ -3506,11 +4024,14 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Cherokeein Prince George",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Cherokee Lin Prince George",
       "stock": "NUMBER",
+      "trim": "Lin Prince George",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/a6e8f222b47f.html",
       "source_url": "https://www.northlanddodge.ca/new/2027-Jeep-Grand_Cherokee_L.html",
       "dealer_url": "https://www.northlanddodge.ca/new/2027-Jeep-Grand_Cherokee_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3519,8 +4040,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Jeep",
-      "model": "Grand Cherokee Lin Prince George",
-      "condition": "used"
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Wagoneerin Prince George",
@@ -3534,11 +4057,14 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Wagoneerin Prince George",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Wagoneer Lin Prince George",
       "stock": "NUMBER",
+      "trim": "Lin Prince George",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/e61ef5b78f94.html",
       "source_url": "https://www.northlanddodge.ca/new/2027-Jeep-Grand_Wagoneer_L.html",
       "dealer_url": "https://www.northlanddodge.ca/new/2027-Jeep-Grand_Wagoneer_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3547,8 +4073,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Jeep",
-      "model": "Grand Wagoneer Lin Prince George",
-      "condition": "used"
+      "model": "Grand Wagoneer",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Wranglerin Prince George",
@@ -3562,7 +4090,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Wranglerin Prince George",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Cherokeein Prince George",
@@ -3576,7 +4106,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Cherokeein Prince George",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Compassin Prince George",
@@ -3590,7 +4122,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Compassin Prince George",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Gladiatorin Prince George",
@@ -3604,7 +4138,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Gladiatorin Prince George",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Cherokeein Prince George",
@@ -3618,11 +4154,14 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Cherokeein Prince George",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Cherokee Lin Prince George",
       "stock": "NUMBER",
+      "trim": "Lin Prince George",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/a6e8f222b47f.html",
       "source_url": "https://www.northlanddodge.ca/new/2027-Jeep-Grand_Cherokee_L.html",
       "dealer_url": "https://www.northlanddodge.ca/new/2027-Jeep-Grand_Cherokee_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3631,8 +4170,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Jeep",
-      "model": "Grand Cherokee Lin Prince George",
-      "condition": "new"
+      "model": "Grand Cherokee",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Wagoneerin Prince George",
@@ -3646,11 +4187,14 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Wagoneerin Prince George",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Wagoneer Lin Prince George",
       "stock": "NUMBER",
+      "trim": "Lin Prince George",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/e61ef5b78f94.html",
       "source_url": "https://www.northlanddodge.ca/new/2027-Jeep-Grand_Wagoneer_L.html",
       "dealer_url": "https://www.northlanddodge.ca/new/2027-Jeep-Grand_Wagoneer_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3659,8 +4203,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Jeep",
-      "model": "Grand Wagoneer Lin Prince George",
-      "condition": "new"
+      "model": "Grand Wagoneer",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Wranglerin Prince George",
@@ -3674,7 +4220,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Wranglerin Prince George",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 1500 ",
@@ -3690,7 +4238,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 2500 ",
@@ -3706,7 +4256,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "2500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 1500 ",
@@ -3722,7 +4274,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 2500 ",
@@ -3738,7 +4292,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "2500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 1500 ",
@@ -3754,7 +4310,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 2500 ",
@@ -3770,7 +4328,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "2500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Ram 3500in Prince George",
@@ -3784,7 +4344,9 @@
       "year": 2027,
       "make": "Ram",
       "model": "3500in Prince George",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Ram 3500in Prince George",
@@ -3798,7 +4360,9 @@
       "year": 2027,
       "make": "Ram",
       "model": "3500in Prince George",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     }
   ]
 }
