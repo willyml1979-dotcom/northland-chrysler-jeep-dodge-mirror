@@ -1,6 +1,6 @@
 {
   "dealership": "Northland Chrysler Jeep Dodge",
-  "generated_at": "2026-10-26T09:10:45",
+  "generated_at": "2026-10-26T10:22:51",
   "vehicle_count": 186,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -650,7 +650,9 @@
       "year": 2019,
       "make": "Chevrolet",
       "model": "Spark",
-      "condition": "used"
+      "condition": "used",
+      "price": 14209.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2019 Ford Super Duty F-250 SRW ",
@@ -866,7 +868,9 @@
       "year": 2021,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "price": 40204.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2021 RAM 3500 ",
@@ -1181,7 +1185,9 @@
       "year": 2023,
       "make": "Toyota",
       "model": "Corolla Cross",
-      "condition": "used"
+      "condition": "used",
+      "price": 28795.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2024 Chevrolet Blazer ",
@@ -1301,7 +1307,7 @@
       "make": "Jeep",
       "model": "Gladiator",
       "condition": "used",
-      "price": 45059.0,
+      "price": 44639.0,
       "price_currency": "CAD"
     },
     {
@@ -1312,7 +1318,7 @@
       "make": "Jeep",
       "model": "Grand Cherokee",
       "condition": "used",
-      "price": 34785.0,
+      "price": 33487.0,
       "price_currency": "CAD"
     },
     {
@@ -1367,18 +1373,18 @@
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 52454.0,
+      "price": 51792.0,
       "price_currency": "CAD"
     },
     {
       "name": "2024 RAM 3500 ",
-      "vin": "3C63R3JL0RG166483",
+      "vin": "3C63R3DJ8RG414327",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/b6670ba400e2.html",
       "year": 2024,
       "make": "RAM",
       "model": "3500",
       "condition": "used",
-      "price": 77754.0,
+      "price": 58228.0,
       "price_currency": "CAD"
     },
     {
@@ -1415,7 +1421,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Volkswagen Taos Comfortlinein Prince George",
+      "name": "2024 Volkswagen Taos Comfortline | 4WD | Apple CarPlay | Remote Start | Heated Seats | Backup Camera | Android Autoin Prince George",
       "vin": "3VVUX7B26RM087127",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/8889f82837c2.html",
       "year": 2024,
@@ -1477,7 +1483,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 28743.0,
+      "price": 28455.0,
       "price_currency": "CAD"
     },
     {
@@ -1488,7 +1494,7 @@
       "make": "Chevrolet",
       "model": "Equinox",
       "condition": "used",
-      "price": 35803.0,
+      "price": 35446.0,
       "price_currency": "CAD"
     },
     {
