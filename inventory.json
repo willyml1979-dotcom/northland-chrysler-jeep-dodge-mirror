@@ -1,6 +1,6 @@
 {
   "dealership": "Northland Chrysler Jeep Dodge",
-  "generated_at": "2026-10-26T00:45:56",
+  "generated_at": "2026-10-26T02:01:15",
   "vehicle_count": 186,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -986,7 +986,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 40996.0,
+      "price": 42989.0,
       "price_currency": "CAD"
     },
     {
@@ -997,7 +997,7 @@
       "make": "RAM",
       "model": "2500",
       "condition": "used",
-      "price": 60622.0,
+      "price": 60080.0,
       "price_currency": "CAD"
     },
     {
@@ -1030,7 +1030,7 @@
       "make": "Chevrolet",
       "model": "Equinox",
       "condition": "used",
-      "price": 24052.0,
+      "price": 23824.0,
       "price_currency": "CAD"
     },
     {
@@ -1041,7 +1041,7 @@
       "make": "Chevrolet",
       "model": "Equinox",
       "condition": "used",
-      "price": 24052.0,
+      "price": 23824.0,
       "price_currency": "CAD"
     },
     {
@@ -1063,7 +1063,7 @@
       "make": "Chrysler",
       "model": "Pacifica",
       "condition": "used",
-      "price": 33047.0,
+      "price": 32748.0,
       "price_currency": "CAD"
     },
     {
@@ -1074,7 +1074,7 @@
       "make": "Dodge",
       "model": "Challenger",
       "condition": "used",
-      "price": 63293.0,
+      "price": 62677.0,
       "price_currency": "CAD"
     },
     {
@@ -1085,7 +1085,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "used",
-      "price": 39898.0,
+      "price": 39495.0,
       "price_currency": "CAD"
     },
     {
@@ -1149,7 +1149,7 @@
       "make": "RAM",
       "model": "3500",
       "condition": "used",
-      "price": 75033.0,
+      "price": 73121.0,
       "price_currency": "CAD"
     },
     {
@@ -1246,7 +1246,7 @@
       "make": "GMC",
       "model": "Sierra 1500",
       "condition": "used",
-      "price": 52166.0,
+      "price": 49337.0,
       "price_currency": "CAD"
     },
     {
