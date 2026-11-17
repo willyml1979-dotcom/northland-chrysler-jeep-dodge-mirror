@@ -1,6 +1,6 @@
 # Northland Chrysler Jeep Dodge
 
- dealership in Prince George. AI-readable inventory mirror, about 187 vehicles.
+ dealership in Prince George. AI-readable inventory mirror, about 196 vehicles.
 
 - Official website: https://www.northlanddodge.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/

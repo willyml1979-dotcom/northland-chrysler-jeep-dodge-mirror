@@ -1,10 +1,344 @@
 {
   "dealership": "Northland Chrysler Jeep Dodge",
-  "generated_at": "2026-11-17T11:13:14",
-  "vehicle_count": 187,
+  "generated_at": "2026-11-17T14:19:22",
+  "vehicle_count": 196,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "Dodge RAM 1500 2006 for salein Prince George",
+      "vin": "1D7HU18286S562525",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/7ad91fc12e46.html",
+      "condition": "used",
+      "price": 4709.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Super Duty F-350 SRW 2009 for salein Prince George",
+      "vin": "1FTWW31RX9EA56650",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/b9c9010f493b.html",
+      "condition": "used",
+      "price": 19909.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Sierra 1500 2009 for salein Prince George",
+      "vin": "3GTEK13C79G121550",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/9544618613d9.html",
+      "condition": "used",
+      "price": 4909.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 2013 for salein Prince George",
+      "vin": "1C6RR7LT5DS666588",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/1ec862d0c938.html",
+      "condition": "used",
+      "price": 12909.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda CR-V 2014 for salein Prince George",
+      "vin": "2HKRM4H9XEH120842",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/c11da920c24f.html",
+      "condition": "used",
+      "price": 22339.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Grand Cherokee 2014 for salein Prince George",
+      "vin": "1C4RJFCG1EC253141",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/2303ef743aa7.html",
+      "condition": "used",
+      "price": 17709.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chrysler Town & Country 2015 for salein Prince George",
+      "vin": "2C4RC1CG8FR716303",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/1c30eae81a65.html",
+      "condition": "used",
+      "price": 9909.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW 2 Series 2016 for salein Prince George",
+      "vin": "WBA1J9C50GV696379",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/3700b83fc4bf.html",
+      "condition": "used",
+      "price": 19909.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chrysler Pacifica 2017 for salein Prince George",
+      "vin": "2C4RC1CG1HR659994",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/7eb7284d8f2d.html",
+      "condition": "used",
+      "price": 19029.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Sierra 1500 2017 for salein Prince George",
+      "vin": "3GTU2PEJ3HG415469",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/e2f8447bc8a2.html",
+      "condition": "used",
+      "price": 33512.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Santa Fe XL 2017 for salein Prince George",
+      "vin": "KM8SNDHF4HU247371",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/caffe74d2fa5.html",
+      "condition": "used",
+      "price": 13909.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Sportage 2017 for salein Prince George",
+      "vin": "KNDPNCAC7H7201200",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/96648569c629.html",
+      "condition": "used",
+      "price": 8909.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Cherokee 2019 for salein Prince George",
+      "vin": "1C4PJMCN2KD277948",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/4c849d378886.html",
+      "condition": "used",
+      "price": 15900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Dodge Grand Caravan 2020 for salein Prince George",
+      "vin": "2C4RDGCG2LR244708",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/dfe889095163.html",
+      "condition": "used",
+      "price": 23294.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 2020 for salein Prince George",
+      "vin": "1C6SRFLT8LN145602",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/d129bf581dd2.html",
+      "condition": "used",
+      "price": 36008.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 Classic 2020 for salein Prince George",
+      "vin": "3C6RR7KT4LG161083",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/64e588217e1f.html",
+      "condition": "used",
+      "price": 32422.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford F-150 2021 for salein Prince George",
+      "vin": "1FTFW1E57MFB45008",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/bb75daa15422.html",
+      "condition": "used",
+      "price": 42612.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda CR-V 2021 for salein Prince George",
+      "vin": "2HKRW2H41MH213282",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/88034002b35c.html",
+      "condition": "used",
+      "price": 33416.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 Classic 2021 for salein Prince George",
+      "vin": "1C6RR7FG9MS584197",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/9d08cbd51697.html",
+      "condition": "used",
+      "price": 32129.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Grand Cherokee 4xe 2022 for salein Prince George",
+      "vin": "1C4RJYE67N8735275",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/f42386ba7bd3.html",
+      "condition": "used",
+      "price": 52298.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wagoneer 2022 for salein Prince George",
+      "vin": "1C4SJVDT5NS166338",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/7d27c20a42a2.html",
+      "condition": "used",
+      "price": 51890.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Qashqai 2023 for salein Prince George",
+      "vin": "JN1BJ1BW5PW103941",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/d391756087d5.html",
+      "condition": "used",
+      "price": 23829.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 Classic 2023 for salein Prince George",
+      "vin": "1C6RR7KT9PS585552",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/e01401d6af0e.html",
+      "condition": "used",
+      "price": 40581.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Jetta 2023 for salein Prince George",
+      "vin": "3VWSM7BU0PM061598",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/2d551627b374.html",
+      "condition": "used",
+      "price": 21573.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Elantra 2024 for salein Prince George",
+      "vin": "KMHLM4DG5RU712702",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/0b4751f0ab0a.html",
+      "condition": "used",
+      "price": 23020.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Santa Cruz 2024 for salein Prince George",
+      "vin": "5NTJDDDF8RH109774",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/50b9a842d485.html",
+      "condition": "used",
+      "price": 36698.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 Classic 2024 for salein Prince George",
+      "vin": "1C6RR7KT1RS196150",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/91978aaba769.html",
+      "condition": "used",
+      "price": 41348.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet TrailBlazer 2025 for salein Prince George",
+      "vin": "KL79MRSL2SB133161",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/8af354bc6a50.html",
+      "condition": "used",
+      "price": 28596.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Dodge Durango 2025 for salein Prince George",
+      "vin": "1C4SDJCT2SC512126",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/c07c009dc85c.html",
+      "condition": "used",
+      "price": 46119.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Elantra 2025 for salein Prince George",
+      "vin": "KMHLM4DG9SU945245",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/28ee762e8540.html",
+      "condition": "used",
+      "price": 23372.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Kona 2025 for salein Prince George",
+      "vin": "KM8HCCAB7SU311282",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/6fcf568e90dc.html",
+      "condition": "used",
+      "price": 30411.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Compass 2025 for salein Prince George",
+      "vin": "3C4NJDANXST551580",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/b3b84c349c65.html",
+      "condition": "used",
+      "price": 29803.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Grand Cherokee L 2025 for salein Prince George",
+      "vin": "1C4RJKAG3S8703978",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/b63aa77c101b.html",
+      "condition": "used",
+      "price": 46931.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda CX-5 2025 for salein Prince George",
+      "vin": "JM3KFBCL8S0742827",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/ad5367c0f5dd.html",
+      "condition": "used",
+      "price": 34107.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 2025 for salein Prince George",
+      "vin": "1C6RRFGG0SN227110",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/96bd5414f109.html",
+      "condition": "used",
+      "price": 44898.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota RAV4 2025 for salein Prince George",
+      "vin": "2T3B1RFV1SC532631",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/7da1706cead7.html",
+      "condition": "used",
+      "price": 37518.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Atlas Cross Sport 2025 for salein Prince George",
+      "vin": "1V2LE2CA8SC221425",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/2d4fb0a390cb.html",
+      "condition": "used"
+    },
+    {
+      "name": "Volkswagen Taos 2025 for salein Prince George",
+      "vin": "3VVUC7B27SM052582",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/72f2b5afefed.html",
+      "condition": "used",
+      "price": 30141.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Seltos 2026 for salein Prince George",
+      "vin": "KNDEPCAA1T7827785",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/70544582971f.html",
+      "condition": "used",
+      "price": 26820.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 2026 for salein Prince George",
+      "vin": "1C6SRFNP1TN281117",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/acc8d002e602.html",
+      "condition": "used",
+      "price": 58283.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 3500 2026 for salein Prince George",
+      "vin": "3C63R3CL8TG191720",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/56a17dc002a2.html",
+      "condition": "used",
+      "price": 73336.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2026 for salein Prince George",
+      "vin": "3VVER7RM3TM010728",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/7f43cd90851f.html",
+      "condition": "used",
+      "price": 35494.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "Jeep Cherokee 2026 for salein Prince George",
       "vin": "3C4PJMB28TT229549",
@@ -30,25 +364,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2006 Dodge RAM 1500in Prince George",
+      "name": "2006 Dodge RAM 1500 SLTin Prince George",
       "vin": "1D7HU18286S562525",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/e5d52e188c8c.html",
       "year": 2006,
       "make": "Dodge",
-      "model": "RAM 1500in Prince George",
+      "model": "RAM 1500 SLTin Prince George",
       "condition": "used",
-      "price": 4909.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2006 Dodge RAM 1500 ",
-      "vin": "1D7HU18286S562525",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/7ad91fc12e46.html",
-      "year": 2006,
-      "make": "Dodge",
-      "model": "RAM 1500",
-      "condition": "used",
-      "price": 4909.0,
+      "price": 4709.0,
       "price_currency": "CAD"
     },
     {
@@ -74,6 +397,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2009 Ford Super Duty F-350 SRW XLTin Prince George",
+      "vin": "1FTWW31RX9EA56650",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/fd7bdb687b8b.html",
+      "year": 2009,
+      "make": "Ford",
+      "model": "Super Duty",
+      "condition": "used",
+      "price": 19909.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2009 GMC Sierra 1500 SLin Prince George",
+      "vin": "3GTEK13C79G121550",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/1f09ce1caeeb.html",
+      "year": 2009,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "used",
+      "price": 4909.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2010 GMC Sierra 1500 SLEin Prince George",
       "vin": "1GTSKVEA7AZ275007",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/80f8b3d4ef25.html",
@@ -81,7 +426,7 @@
       "make": "GMC",
       "model": "Sierra 1500",
       "condition": "used",
-      "price": 9909.0,
+      "price": 9709.0,
       "price_currency": "CAD"
     },
     {
@@ -96,6 +441,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2012 RAM 3500 Laramiein Prince George",
+      "vin": "3C63D3ELXCG150470",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/12739470fc38.html",
+      "year": 2012,
+      "make": "RAM",
+      "model": "3500",
+      "condition": "used",
+      "price": 19609.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2012 RAM 3500 ",
       "vin": "3C63D3ELXCG150470",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/d4d875b1e9a3.html",
@@ -103,6 +459,17 @@
       "make": "RAM",
       "model": "3500",
       "condition": "used"
+    },
+    {
+      "name": "2013 RAM 1500 SLTin Prince George",
+      "vin": "1C6RR7LT5DS666588",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/f2c351274395.html",
+      "year": 2013,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "used",
+      "price": 12909.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2014 Ford F-150 FX4in Prince George",
@@ -127,6 +494,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2014 Honda CR-V Touringin Prince George",
+      "vin": "2HKRM4H9XEH120842",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/e41194d785e3.html",
+      "year": 2014,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "used",
+      "price": 22339.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2014 Jeep Grand Cherokee Overlandin Prince George",
       "vin": "1C4RJFCG1EC253141",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/a6b1b573bbbf.html",
@@ -134,40 +512,29 @@
       "make": "Jeep",
       "model": "Grand Cherokee",
       "condition": "used",
-      "price": 17909.0,
+      "price": 17709.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2014 Jeep Grand Cherokee ",
-      "vin": "1C4RJFCG1EC253141",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/2303ef743aa7.html",
-      "year": 2014,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 17909.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 Chrysler 200 Limitedin Prince George",
-      "vin": "1C3CCCAG0FN507126",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/400a3eddea6a.html",
+      "name": "2015 Chrysler Town & Country Touringin Prince George",
+      "vin": "2C4RC1CG8FR716303",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/65a521a0ff8f.html",
       "year": 2015,
       "make": "Chrysler",
-      "model": "200 Limitedin Prince George",
+      "model": "Town & Country Touringin Prince George",
       "condition": "used",
-      "price": 4909.0,
+      "price": 9909.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Chrysler 200 ",
-      "vin": "1C3CCCAG0FN507126",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/7baf8d459959.html",
-      "year": 2015,
-      "make": "Chrysler",
-      "model": "200",
+      "name": "2016 BMW 2 Series M235i xDrivein Prince George",
+      "vin": "WBA1J9C50GV696379",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/567377c00297.html",
+      "year": 2016,
+      "make": "BMW",
+      "model": "2 Series",
       "condition": "used",
-      "price": 4909.0,
+      "price": 19909.0,
       "price_currency": "CAD"
     },
     {
@@ -237,25 +604,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Toyota Corollain Prince George",
-      "vin": "2T1BURHE0HC824499",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/beaa53f86810.html",
+      "name": "2017 Chrysler Pacifica LXin Prince George",
+      "vin": "2C4RC1CG1HR659994",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/2e068512ed85.html",
       "year": 2017,
-      "make": "Toyota",
-      "model": "Corollain Prince George",
+      "make": "Chrysler",
+      "model": "Pacifica",
       "condition": "used",
-      "price": 18998.0,
+      "price": 19029.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Toyota Corolla ",
-      "vin": "2T1BURHE0HC824499",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/6a7761bc7905.html",
+      "name": "2017 Hyundai Santa Fe XL Luxuryin Prince George",
+      "vin": "KM8SNDHF4HU247371",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/44776866120d.html",
       "year": 2017,
-      "make": "Toyota",
-      "model": "Corolla",
+      "make": "Hyundai",
+      "model": "Santa Fe",
       "condition": "used",
-      "price": 18998.0,
+      "price": 13909.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2017 Kia Sportage EXin Prince George",
+      "vin": "KNDPNCAC7H7201200",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/8973370a9298.html",
+      "year": 2017,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "used",
+      "price": 8909.0,
       "price_currency": "CAD"
     },
     {
@@ -281,61 +659,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Ford F-150 XLTin Prince George",
-      "vin": "1FTEW1EB4JFC82517",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/0a8fff730393.html",
-      "year": 2018,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 17909.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Ford F-150 ",
-      "vin": "1FTEW1EB4JFC82517",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/a3768deddc0b.html",
-      "year": 2018,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 17909.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Honda Civic Hatchback Sport | FWD | No Accidents | Sunroof | Apple CarPlay | Android Auto | Remote Start |in Prince George",
-      "vin": "SHHFK7H42JU300385",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/920abd97c0a7.html",
-      "year": 2018,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "used",
-      "price": 24137.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Honda Civic Hatchback ",
-      "vin": "SHHFK7H42JU300385",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/2df31a891097.html",
-      "year": 2018,
-      "make": "Honda",
-      "model": "Civic Hatchback",
-      "condition": "used",
-      "price": 24137.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Jeep Wrangler Willys Wheelerin Prince George",
-      "vin": "1C4BJWDGXJL807156",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/f54e85fa32c6.html",
-      "year": 2018,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 25441.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 Jeep Wrangler ",
       "vin": "1C4BJWDGXJL807156",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/6737d59a7ecb.html",
@@ -344,50 +667,6 @@
       "model": "Wrangler",
       "condition": "used",
       "price": 25441.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Volkswagen Passat Comfortline | FWD | Sunroof | Remote Start | Heated Seats | Backup Camera | Bluetooth |in Prince George",
-      "vin": "1VWBA7A38JC018301",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/1142db965fe3.html",
-      "year": 2018,
-      "make": "Volkswagen",
-      "model": "Passat",
-      "condition": "used",
-      "price": 16636.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Volkswagen Passat ",
-      "vin": "1VWBA7A38JC018301",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/a83bb5939c7a.html",
-      "year": 2018,
-      "make": "Volkswagen",
-      "model": "Passat",
-      "condition": "used",
-      "price": 16636.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Chevrolet Spark LTin Prince George",
-      "vin": "KL8CD6SA0KC774995",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/4d2a86c52bf6.html",
-      "year": 2019,
-      "make": "Chevrolet",
-      "model": "Spark",
-      "condition": "used",
-      "price": 14209.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Chevrolet Spark ",
-      "vin": "KL8CD6SA0KC774995",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/0f790343b53f.html",
-      "year": 2019,
-      "make": "Chevrolet",
-      "model": "Spark",
-      "condition": "used",
-      "price": 14209.0,
       "price_currency": "CAD"
     },
     {
@@ -402,14 +681,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 GMC Yukon ",
-      "vin": "1GKS2CKJ4KR179317",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/878a18bb4a8f.html",
+      "name": "2019 Honda Civic Sedan LXin Prince George",
+      "vin": "2HGFC2F52KH012067",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/5d8762a17000.html",
       "year": 2019,
-      "make": "GMC",
-      "model": "Yukon",
+      "make": "Honda",
+      "model": "Civic",
       "condition": "used",
-      "price": 40618.0,
+      "price": 19347.0,
       "price_currency": "CAD"
     },
     {
@@ -422,36 +701,14 @@
       "condition": "used"
     },
     {
-      "name": "2019 Jeep Cherokee Trailhawk Elitein Prince George",
-      "vin": "1C4PJMBX8KD114109",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/f686ee530363.html",
+      "name": "2019 Jeep Cherokee Northin Prince George",
+      "vin": "1C4PJMCN2KD277948",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/2d11458520bc.html",
       "year": 2019,
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "used",
-      "price": 20473.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Jeep Cherokee ",
-      "vin": "1C4PJMBX8KD114109",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/4c849d378886.html",
-      "year": 2019,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "used",
-      "price": 20473.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Jeep Wrangler ",
-      "vin": "1C4HJXEN1KW686093",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/5807d3c1b800.html",
-      "year": 2019,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 30184.0,
+      "price": 15900.0,
       "price_currency": "CAD"
     },
     {
@@ -463,6 +720,17 @@
       "model": "1500",
       "condition": "used",
       "price": 35196.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 RAM 1500 Classic Expressin Prince George",
+      "vin": "1C6RR7FG9KS575335",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/52a92f294eb0.html",
+      "year": 2019,
+      "make": "RAM",
+      "model": "1500 Classic",
+      "condition": "used",
+      "price": 22827.0,
       "price_currency": "CAD"
     },
     {
@@ -485,6 +753,17 @@
       "model": "3500",
       "condition": "used",
       "price": 46885.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Dodge Grand Caravan Premium Plusin Prince George",
+      "vin": "2C4RDGCG2LR244708",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/167751ef3fbb.html",
+      "year": 2020,
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "condition": "used",
+      "price": 23294.0,
       "price_currency": "CAD"
     },
     {
@@ -543,17 +822,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Ford Explorer ",
-      "vin": "1FMSK8FH0MGB98361",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/60ba9d62beac.html",
-      "year": 2021,
-      "make": "Ford",
-      "model": "Explorer",
-      "condition": "used",
-      "price": 30883.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Jeep Grand Cherokee ",
       "vin": "1C4RJFBG9MC820745",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/a53b5a906f19.html",
@@ -562,50 +830,6 @@
       "model": "Grand Cherokee",
       "condition": "used",
       "price": 32895.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Kia Forte EX+in Prince George",
-      "vin": "3KPF54AD7ME281182",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/4fe31894311d.html",
-      "year": 2021,
-      "make": "Kia",
-      "model": "Forte",
-      "condition": "used",
-      "price": 16969.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Kia Forte ",
-      "vin": "3KPF54AD7ME281182",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/724c46f6d23b.html",
-      "year": 2021,
-      "make": "Kia",
-      "model": "Forte",
-      "condition": "used",
-      "price": 16969.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Mazda CX-9 ",
-      "vin": "JM3TCBDY1M0453864",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/2b8c5e1771d8.html",
-      "year": 2021,
-      "make": "Mazda",
-      "model": "CX-9",
-      "condition": "used",
-      "price": 29864.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 RAM 1500 ",
-      "vin": "1C6SRFVT9MN669971",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/f197fcfdb6b9.html",
-      "year": 2021,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 40204.0,
       "price_currency": "CAD"
     },
     {
@@ -697,28 +921,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Nissan Qashqai SVin Prince George",
-      "vin": "JN1BJ1BW6NW472837",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/f732c1dd0727.html",
-      "year": 2022,
-      "make": "Nissan",
-      "model": "Qashqai",
-      "condition": "used",
-      "price": 23816.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Nissan Qashqai ",
-      "vin": "JN1BJ1BW6NW472837",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/a84f7a502a0d.html",
-      "year": 2022,
-      "make": "Nissan",
-      "model": "Qashqai",
-      "condition": "used",
-      "price": 23816.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 RAM 1500 ",
       "vin": "1C6SRFVT7NN403883",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/6489e5ec9c7a.html",
@@ -760,39 +962,6 @@
       "model": "Ascent",
       "condition": "used",
       "price": 34764.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Chevrolet Equinox LT | AWD | NAV | Apple CarPlay | Android Auto | Remote Start | Heated Seats | Backup Camera |in Prince George",
-      "vin": "3GNAXUEG4PS207322",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/f80d317c4394.html",
-      "year": 2023,
-      "make": "Chevrolet",
-      "model": "Equinox",
-      "condition": "used",
-      "price": 23824.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Chevrolet Equinox ",
-      "vin": "3GNAXUEG4PS207322",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/9865280fd445.html",
-      "year": 2023,
-      "make": "Chevrolet",
-      "model": "Equinox",
-      "condition": "used",
-      "price": 23824.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Chrysler Grand Caravan ",
-      "vin": "2C4RC1ZGXPR613683",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/2742b7b52847.html",
-      "year": 2023,
-      "make": "Chrysler",
-      "model": "Grand Caravan",
-      "condition": "used",
-      "price": 35767.0,
       "price_currency": "CAD"
     },
     {
@@ -856,7 +1025,7 @@
       "make": "Jeep",
       "model": "Compass",
       "condition": "used",
-      "price": 27006.0,
+      "price": 25010.0,
       "price_currency": "CAD"
     },
     {
@@ -868,6 +1037,28 @@
       "model": "Compass",
       "condition": "used",
       "price": 27006.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Nissan Qashqai SVin Prince George",
+      "vin": "JN1BJ1BW5PW103941",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/a0081b69316d.html",
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Qashqai",
+      "condition": "used",
+      "price": 23829.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Nissan Qashqai Sin Prince George",
+      "vin": "JN1BJ1AW4PW106900",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/acbe23f48079.html",
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Qashqai",
+      "condition": "used",
+      "price": 24756.0,
       "price_currency": "CAD"
     },
     {
@@ -893,36 +1084,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Subaru Crosstrek ",
-      "vin": "JF2GTHNC3PH213318",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/a260bc9e54e3.html",
+      "name": "2023 Volkswagen Jetta Comfortline | FWD | Sunroof | Remote Start | Apple CarPlay | Heated Seats | Backup Camera |in Prince George",
+      "vin": "3VWSM7BU0PM061598",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/cc10f8b5c14b.html",
       "year": 2023,
-      "make": "Subaru",
-      "model": "Crosstrek",
+      "make": "Volkswagen",
+      "model": "Jetta",
       "condition": "used",
-      "price": 30810.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Toyota Corolla Cross Lin Prince George",
-      "vin": "7MUAAABG8PV069548",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/0009349875e6.html",
-      "year": 2023,
-      "make": "Toyota",
-      "model": "Corolla Cross",
-      "condition": "used",
-      "price": 28795.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Toyota Corolla Cross ",
-      "vin": "7MUAAABG8PV069548",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/b35995ac2b4f.html",
-      "year": 2023,
-      "make": "Toyota",
-      "model": "Corolla Cross",
-      "condition": "used",
-      "price": 28795.0,
+      "price": 21573.0,
       "price_currency": "CAD"
     },
     {
@@ -970,17 +1139,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Ford F-150 ",
-      "vin": "1FTFW3L53RKD99618",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/14abb47796a3.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 48633.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 GMC Sierra 1500 ",
       "vin": "3GTUUDEL6RG262033",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/8eed83ebd4ba.html",
@@ -989,17 +1147,6 @@
       "model": "Sierra 1500",
       "condition": "used",
       "price": 49337.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 GMC Terrain SLE | AWD | Apple CarPlay | Remote Start | Heated Seats | Backup Camera | Android Auto |in Prince George",
-      "vin": "3GKALTEG8RL253235",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/e9e753ab068b.html",
-      "year": 2024,
-      "make": "GMC",
-      "model": "Terrain",
-      "condition": "used",
-      "price": 27824.0,
       "price_currency": "CAD"
     },
     {
@@ -1014,14 +1161,25 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 Hyundai Elantra Preferredin Prince George",
+      "vin": "KMHLM4DG5RU712702",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/9e78bec3a00e.html",
+      "year": 2024,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "condition": "used",
+      "price": 23020.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024 Jeep Compass Sportin Prince George",
-      "vin": "3C4NJDAN9RT592308",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/3b12ffee21b6.html",
+      "vin": "3C4NJDAN5RT575442",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/55f14aa0a3da.html",
       "year": 2024,
       "make": "Jeep",
       "model": "Compass",
       "condition": "used",
-      "price": 29467.0,
+      "price": 26058.0,
       "price_currency": "CAD"
     },
     {
@@ -1080,28 +1238,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Mitsubishi Outlander ES | AWD | One Owner | No Accidents | Apple CarPlay | Heated Seats | Backup Camera |in Prince George",
-      "vin": "JA4J4UA83RZ635883",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/925c47d07e07.html",
-      "year": 2024,
-      "make": "Mitsubishi",
-      "model": "Outlander",
-      "condition": "used",
-      "price": 28195.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mitsubishi Outlander ",
-      "vin": "JA4J4UA83RZ635883",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/6edffbc7bdcc.html",
-      "year": 2024,
-      "make": "Mitsubishi",
-      "model": "Outlander",
-      "condition": "used",
-      "price": 28195.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 RAM 1500 ",
       "vin": "1C6SRFVT0RN203353",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/3472834efc00.html",
@@ -1121,17 +1257,6 @@
       "model": "3500",
       "condition": "used",
       "price": 58228.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Subaru Forester ",
-      "vin": "JF2SKELC3RH517511",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/383012b2a6a1.html",
-      "year": 2024,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "used",
-      "price": 37800.0,
       "price_currency": "CAD"
     },
     {
@@ -1168,14 +1293,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Volkswagen Taos Comfortline | 4WD | Apple CarPlay | Android Auto | Remote Start | Heated Seats | Backup Camera |in Prince George",
-      "vin": "3VVUX7B29RM128639",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/8c29082d9ddd.html",
+      "name": "2024 Volkswagen Taos Trendlinein Prince George",
+      "vin": "3VVGX7B25RM079355",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/e7c0859fd6c1.html",
       "year": 2024,
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "used",
-      "price": 27257.0,
+      "price": 25958.0,
       "price_currency": "CAD"
     },
     {
@@ -1187,28 +1312,6 @@
       "model": "Taos",
       "condition": "used",
       "price": 26566.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volkswagen Tiguan Comfortline | 4WD | Apple CarPlay | Remote Start | Heated Seats | Backup Camera | Android Auto |in Prince George",
-      "vin": "3VV2B7AX2RM125293",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/249db9bee8bd.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 29112.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volkswagen Tiguan Comfortline | 4WD | Leather | Apple CarPlay || Remote Start | Heated Seats | Backup Camera |in Prince George",
-      "vin": "3VV2B7AX2RM125598",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/5bba99c0f1c0.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 28455.0,
       "price_currency": "CAD"
     },
     {
@@ -1234,28 +1337,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Chevrolet TrailBlazer LT | AWD | Apple CarPlay | Remote Start | Heated Seats | Backup Camera | Android Auto |in Prince George",
-      "vin": "KL79MRSL2SB133161",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/181ed550e024.html",
-      "year": 2025,
-      "make": "Chevrolet",
-      "model": "Trailblazer",
-      "condition": "used",
-      "price": 29292.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Chevrolet TrailBlazer ",
-      "vin": "KL79MRSL2SB133161",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/8af354bc6a50.html",
-      "year": 2025,
-      "make": "Chevrolet",
-      "model": "TrailBlazer",
-      "condition": "used",
-      "price": 27532.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Chrysler Pacifica ",
       "vin": "2C4RC1GG0SR570709",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/ee469c1ae793.html",
@@ -1264,17 +1345,6 @@
       "model": "Pacifica",
       "condition": "used",
       "price": 37869.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Dodge Durango ",
-      "vin": "1C4SDJH90SC508878",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/c07c009dc85c.html",
-      "year": 2025,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "used",
-      "price": 95684.0,
       "price_currency": "CAD"
     },
     {
@@ -1289,6 +1359,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 Hyundai Elantra Preferredin Prince George",
+      "vin": "KMHLM4DG9SU945245",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/8e47e5d5d69c.html",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "condition": "used",
+      "price": 23372.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025 Hyundai Tucson ",
       "vin": "5NMJBCDE7SH497928",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/757d99eb6576.html",
@@ -1297,17 +1378,6 @@
       "model": "Tucson",
       "condition": "used",
       "price": 31335.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Jeep Grand Cherokee L ",
-      "vin": "1C4RJKAG3S8703978",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/b63aa77c101b.html",
-      "year": 2025,
-      "make": "Jeep",
-      "model": "Grand Cherokee L",
-      "condition": "used",
-      "price": 47606.0,
       "price_currency": "CAD"
     },
     {
@@ -1322,39 +1392,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Kia Sportage ",
-      "vin": "KNDPUCDF9S7385894",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/2a6fbfe431e0.html",
-      "year": 2025,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "used",
-      "price": 29109.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Mitsubishi Outlander ",
-      "vin": "JA4J4UA89SZ626398",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/5d80a7b03bbf.html",
-      "year": 2025,
-      "make": "Mitsubishi",
-      "model": "Outlander",
-      "condition": "used",
-      "price": 32110.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Nissan Kicks SVin Prince George",
-      "vin": "3N8AP6CB7SL415794",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/1cbc4a662cca.html",
-      "year": 2025,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "used",
-      "price": 26594.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Nissan Kicks ",
       "vin": "3N8AP6CB7SL415794",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/7789e8f59980.html",
@@ -1363,17 +1400,6 @@
       "model": "Kicks",
       "condition": "used",
       "price": 26594.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Nissan Rogue SV Moonroofin Prince George",
-      "vin": "JN8BT3BB3SW168333",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/0edaaab2ed45.html",
-      "year": 2025,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 29504.0,
       "price_currency": "CAD"
     },
     {
@@ -1388,17 +1414,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 RAM 1500 ",
-      "vin": "1C6SRFGP7SN598928",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/96bd5414f109.html",
-      "year": 2025,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 46744.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 RAM 2500 ",
       "vin": "3C6UR5DJ9SG540671",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/b6d9624aa174.html",
@@ -1407,17 +1422,6 @@
       "model": "2500",
       "condition": "used",
       "price": 62840.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Toyota RAV4 ",
-      "vin": "2T3B1RFV1SC532631",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/7da1706cead7.html",
-      "year": 2025,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "used",
-      "price": 37794.0,
       "price_currency": "CAD"
     },
     {
@@ -1895,28 +1899,6 @@
     },
     {
       "name": "2026 RAM 1500 ",
-      "vin": "1C6SRFNP1TN281117",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/acc8d002e602.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 52361.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 3500 ",
-      "vin": "3C63R3CL8TG191720",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/56a17dc002a2.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "used",
-      "price": 75318.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500 ",
       "vin": "1C6RRFCG5TN333561",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/e44f059b7132.html",
       "year": 2026,
@@ -1946,17 +1928,6 @@
       "model": "3500",
       "condition": "new",
       "price": 82763.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Tiguan ",
-      "vin": "3VVER7RM3TM010728",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/7f43cd90851f.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 35839.0,
       "price_currency": "CAD"
     },
     {
