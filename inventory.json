@@ -1,6 +1,6 @@
 {
   "dealership": "Northland Chrysler Jeep Dodge",
-  "generated_at": "2026-11-17T14:19:22",
+  "generated_at": "2026-11-18T02:01:54",
   "vehicle_count": 196,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -348,6 +348,38 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Jeep Compass 2026 for salein Prince George",
+      "vin": "3C4NJDBN3TT152848",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/b2a14bf43fbd.html",
+      "condition": "new",
+      "price": 38633.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Gladiator 2026 for salein Prince George",
+      "vin": "1C6PJTAG7TL153669",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/59a03920274f.html",
+      "condition": "new",
+      "price": 53777.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Grand Cherokee L 2026 for salein Prince George",
+      "vin": "1C4RJKAG5T8588334",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/342ad62e3711.html",
+      "condition": "new",
+      "price": 62923.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Grand Wagoneer L 2026 for salein Prince George",
+      "vin": "1C4SJSBP0TS196400",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/9549c93f1b65.html",
+      "condition": "new",
+      "price": 94777.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Jeep Recon 2026 for salein Prince George",
       "vin": "3C4RJAAK5TT263148",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/6ab50048f387.html",
@@ -356,11 +388,27 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Jeep Wrangler 2026 for salein Prince George",
+      "vin": "1C4PJXAN0TW341222",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/97ccd081af42.html",
+      "condition": "new",
+      "price": 44777.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Jeep Grand Cherokee 2027 for salein Prince George",
       "vin": "1C4RJHAG9VC595127",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/f828064d6614.html",
       "condition": "new",
       "price": 72723.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 3500 2027 for salein Prince George",
+      "vin": "3C63R3DLXVG421209",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/72fec0eea3c6.html",
+      "condition": "new",
+      "price": 99243.0,
       "price_currency": "CAD"
     },
     {
@@ -1447,6 +1495,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Jeep Cherokee Limited | 4WD | Leather | Sunroof | NAV | Apple CarPlay | Remote Start | Heated Seats | Bluetoothin Prince George",
+      "vin": "3C4PJMB24TT228351",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/c2558ebbd085.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 54577.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Jeep Cherokee Laredoin Prince George",
       "vin": "3C4PJMB21TT276986",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/7fad87a1cac4.html",
@@ -1601,31 +1660,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Jeep Compass Altitude | 4WD | Remote Start | Backup Camera | Push Button Start | Apple CarPlayin Prince George",
-      "vin": "3C4NJDBN8TT198952",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/e2eed4c35fa4.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 43573.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2026 Jeep Compass Altitude | 4WD | Apple CarPlay | Remote Start | Heated Seat s| Backup Camera | Android Auto |in Prince George",
       "vin": "3C4NJDBN7TT216549",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/19cabf6ededa.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 43573.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Jeep Compass Altitude | 4WD | Apple CarPlay | Remote Start | Heated Seats | Backup Camera | Android Auto |in Prince George",
-      "vin": "3C4NJDBN9TT216553",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/e73a541c3a49.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
@@ -1799,17 +1836,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass ",
-      "vin": "3C4NJDBN4TT278149",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/b2a14bf43fbd.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 38538.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2026 Jeep Gladiator Willys | Cloth | Heated Front Seats | Remote Start | 4WD | Apple CarPlay | Android Autoin Prince George",
       "vin": "1C6PJTAG7TL153669",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/e8e7871ce7f2.html",
@@ -1821,14 +1847,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Gladiator ",
-      "vin": "1C6PJTAG7TL153669",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/59a03920274f.html",
+      "name": "New 2026 Jeep Gladiator Sport S | 4WD | V6 | NAV | Apple CarPlay | Heated Seats | Backup Camera | Android Auto |in Prince George",
+      "vin": "1C6RJTAG5TL193659",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/983a9d6d647a.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Gladiator",
       "condition": "new",
-      "price": 55777.0,
+      "price": 54217.0,
       "price_currency": "CAD"
     },
     {
@@ -1840,28 +1866,6 @@
       "model": "Grand Cherokee",
       "condition": "new",
       "price": 59777.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Grand Cherokee L ",
-      "vin": "1C4RJKAG5T8588334",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/342ad62e3711.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Grand Cherokee L",
-      "condition": "new",
-      "price": 67023.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Grand Wagoneer L ",
-      "vin": "1C4SJSBP0TS196400",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/9549c93f1b65.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Grand Wagoneer",
-      "condition": "new",
-      "price": 112308.0,
       "price_currency": "CAD"
     },
     {
@@ -1883,18 +1887,7 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "new",
-      "price": 45777.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Wrangler ",
-      "vin": "1C4PJXAN0TW341222",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/97ccd081af42.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "new",
-      "price": 45777.0,
+      "price": 44777.0,
       "price_currency": "CAD"
     },
     {
@@ -2005,17 +1998,6 @@
       "model": "2500",
       "condition": "new",
       "price": 84618.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 RAM 3500 ",
-      "vin": "3C63R3DLXVG421209",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/72fec0eea3c6.html",
-      "year": 2027,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "new",
-      "price": 97248.0,
       "price_currency": "CAD"
     }
   ]
