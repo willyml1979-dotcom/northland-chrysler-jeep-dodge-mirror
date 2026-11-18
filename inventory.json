@@ -1,6 +1,6 @@
 {
   "dealership": "Northland Chrysler Jeep Dodge",
-  "generated_at": "2026-11-18T03:43:06",
+  "generated_at": "2026-11-18T11:00:53",
   "vehicle_count": 195,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -466,6 +466,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Jeep Grand Cherokee 2026 for salein Prince George",
+      "vin": "1C4RJHAG8TC252144",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/e84a40baca63.html",
+      "condition": "new",
+      "price": 56777.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Jeep Grand Cherokee L 2026 for salein Prince George",
       "vin": "1C4RJKAG5T8588334",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/342ad62e3711.html",
@@ -498,11 +506,83 @@
       "price_currency": "CAD"
     },
     {
+      "name": "RAM 1500 2026 for salein Prince George",
+      "vin": "1C6RRFCG5TN333561",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/e44f059b7132.html",
+      "condition": "new",
+      "price": 56938.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 2500 2026 for salein Prince George",
+      "vin": "3C6UR5EL1TG264701",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/7f80ab8e5264.html",
+      "condition": "new",
+      "price": 99777.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 3500 2026 for salein Prince George",
+      "vin": "3C63R3HJ5TG362253",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/8b64e5087426.html",
+      "condition": "new",
+      "price": 72777.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chrysler Grand Caravan 2027 for salein Prince George",
+      "vin": "2C4RC1ZG5VR618626",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/bedeec3234d6.html",
+      "condition": "new",
+      "price": 52087.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chrysler Pacifica 2027 for salein Prince George",
+      "vin": "2C4RC1BG9VR613956",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/90457aeafba1.html",
+      "condition": "new",
+      "price": 57282.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Dodge Durango 2027 for salein Prince George",
+      "vin": "1C4RDJDG5VC572809",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/a5b9f51ceafc.html",
+      "condition": "new",
+      "price": 68928.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Jeep Grand Cherokee 2027 for salein Prince George",
       "vin": "1C4RJHAG9VC595127",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/f828064d6614.html",
       "condition": "new",
       "price": 72723.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wrangler 2027 for salein Prince George",
+      "vin": "1C4PJXDG3VW596382",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/6440d3710271.html",
+      "condition": "new",
+      "price": 75817.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 2027 for salein Prince George",
+      "vin": "1C6RRFCG8VN621013",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/5d6c9bbe65f6.html",
+      "condition": "new",
+      "price": 63047.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 2500 2027 for salein Prince George",
+      "vin": "3C6UR5HJ0VG372403",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/22ec3e5a1465.html",
+      "condition": "new",
+      "price": 84618.0,
       "price_currency": "CAD"
     },
     {
@@ -1797,17 +1877,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Grand Cherokee ",
-      "vin": "1C4RJHAG8TC252144",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/e84a40baca63.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "new",
-      "price": 59777.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2026 Jeep Wrangler Sport S | Cloth | 4WD | Remote Start | Heated Seats | Backup Camera | Apple CarPlayin Prince George",
       "vin": "1C4PJXDG6TW217727",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/eafe32a76d11.html",
@@ -1841,39 +1910,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 1500 ",
-      "vin": "1C6RRFCG5TN333561",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/e44f059b7132.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 56938.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 2500 ",
-      "vin": "3C63R5EL9TG231912",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/7f80ab8e5264.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "2500",
-      "condition": "new",
-      "price": 99777.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 3500 ",
-      "vin": "3C63R3DL6TG346750",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/8b64e5087426.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "new",
-      "price": 82763.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2027 Chrysler Grand Caravan SXTin Prince George",
       "vin": "2C4RC1ZG5VR618626",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/cddfb93d55a0.html",
@@ -1882,72 +1918,6 @@
       "model": "Grand Caravan",
       "condition": "new",
       "price": 52087.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chrysler Grand Caravan ",
-      "vin": "2C4RC1ZG5VR618626",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/bedeec3234d6.html",
-      "year": 2027,
-      "make": "Chrysler",
-      "model": "Grand Caravan",
-      "condition": "new",
-      "price": 52087.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chrysler Pacifica ",
-      "vin": "2C4RC1BG9VR613956",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/90457aeafba1.html",
-      "year": 2027,
-      "make": "Chrysler",
-      "model": "Pacifica",
-      "condition": "new",
-      "price": 57282.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Dodge Durango ",
-      "vin": "1C4RDJDG5VC572809",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/a5b9f51ceafc.html",
-      "year": 2027,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "new",
-      "price": 68928.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Jeep Wrangler ",
-      "vin": "1C4PJXEG9VW596384",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/6440d3710271.html",
-      "year": 2027,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "new",
-      "price": 76378.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 RAM 1500 ",
-      "vin": "1C6RRFCG0VN602892",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/5d6c9bbe65f6.html",
-      "year": 2027,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 68533.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 RAM 2500 ",
-      "vin": "3C6UR5HJ0VG372403",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/22ec3e5a1465.html",
-      "year": 2027,
-      "make": "RAM",
-      "model": "2500",
-      "condition": "new",
-      "price": 84618.0,
       "price_currency": "CAD"
     }
   ]
