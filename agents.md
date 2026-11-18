@@ -7,7 +7,7 @@ Northland Chrysler Jeep Dodge is a  dealership in Prince George. This site is an
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/ and https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/ (about 196 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/used/ and https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/ (about 195 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/llms.txt
