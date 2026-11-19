@@ -1,6 +1,6 @@
 {
   "dealership": "Northland Chrysler Jeep Dodge",
-  "generated_at": "2026-11-18T12:13:09",
+  "generated_at": "2026-11-18T21:26:52",
   "vehicle_count": 192,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -538,6 +538,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Dodge Durango 2026 for salein Prince George",
+      "vin": "1C4RDJDG2TC314146",
+      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/facc6596deec.html",
+      "condition": "new",
+      "price": 59532.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Jeep Cherokee 2026 for salein Prince George",
       "vin": "3C4PJMB28TT229549",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/f5dbe4d8cee0.html",
@@ -590,7 +598,7 @@
       "vin": "3C4RJAAK5TT263148",
       "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/6ab50048f387.html",
       "condition": "new",
-      "price": 94113.0,
+      "price": 95012.0,
       "price_currency": "CAD"
     },
     {
@@ -1431,17 +1439,6 @@
       "model": "Rogue",
       "condition": "used",
       "price": 27127.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Dodge Durango ",
-      "vin": "1C4RDJDG5TC188770",
-      "url": "https://willyml1979-dotcom.github.io/northland-chrysler-jeep-dodge-mirror/new/facc6596deec.html",
-      "year": 2026,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "new",
-      "price": 58777.0,
       "price_currency": "CAD"
     },
     {
